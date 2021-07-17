@@ -21,7 +21,7 @@
 - [x] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-![pro](https://user-images.githubusercontent.com/39386877/126019266-b967dd05-d76e-4e65-9005-4e7cf57ef43d.gif)
+![pro](https://user-images.githubusercontent.com/39386877/126019321-19e0ce96-5b22-4bf5-a40f-4298a2e39a22.gif)
 ![match](https://user-images.githubusercontent.com/39386877/126018729-7866d285-35c5-4ace-a841-c474d4587ae3.gif)
 
 
